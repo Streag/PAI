@@ -18,4 +18,4 @@ git clone https://github.com/Streag/PAI.git && cd PAI && pip install -r requirem
 
 ## Usage
 
-![demo]https://raw.githubusercontent.com/Streag/PAI/main/demo/demo.png
+![demo](https://raw.githubusercontent.com/Streag/PAI/main/demo/demo.png)
