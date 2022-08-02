@@ -15,7 +15,7 @@ _GOOD_PROCESSES = None  # []
 _VERSION = 'v1.0.0'
 
 
-banner = figlet_format("SPC", 'slant')
+banner = figlet_format("PAI", 'slant')
 parser = ArgumentParser(description=print(Fore.LIGHTGREEN_EX, banner, Style.RESET_ALL, end=''))
 parser.add_argument('-f', '--file', type=str, metavar='', required=False,
                     help='Defines the path to the file in which the recordings are filed')
